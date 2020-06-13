@@ -1,0 +1,60 @@
+.blue {
+  color: skyblue;
+}
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+.orng {
+  color: orange;
+}
+
+.container1 {
+  width: 1100px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.googleimg {
+  display: block;
+  height: 50px;
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+h1 {
+  margin-left: 29.5%;
+  margin-right: 29.5%;
+  text-align: justify;
+}
+.cycleimg {
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.heading1 {
+  font-size: 50px;
+  margin-left: auto;
+  margin-right: 800px;
+  text-align: left;
+}
+.p1 {
+  font-size: 20px;
+}
+.container5 {
+  width: 1100px;
+  background-color: mediumseagreen;
+  color: floralwhite;
+  margin: auto;
+}
+.heading2 {
+  text-align: center;
+  font-size: 40px;
+  margin-left: 250px;
+  margin-right: 250px;
+  padding: 50px;
+}
